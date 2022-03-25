@@ -1,6 +1,6 @@
 ## Hi ✌
 
-My name is Farkhat Nizaev//You can just call me Fara
+My name is Farkhat Nizaev//Simpler Fara
 
 Yandex.Practicum student//Frontend developer in future
 
